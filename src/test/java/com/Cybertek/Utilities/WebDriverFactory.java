@@ -14,6 +14,7 @@ public class WebDriverFactory {
     it will setup the browser and
     the method will return chromedriver or operadriver object.
     name of the method: getDriver
+    Edited with GitHub
      */
 
     public static WebDriver getDriver(String browserType){
